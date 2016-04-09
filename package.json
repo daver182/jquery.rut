@@ -1,5 +1,5 @@
 {
-  "name": "jquery.rut",
+  "name": "jquery.rut2",
   "version": "0.0.1",
   "description": "Plugin para Jquery que permite validar un RUT, trabaja con Jquery Validation",
   "main": "jquery.rut.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daver182/jquery.rut.git"
+    "url": "git+https://github.com/escaleno-ltda/jquery.rut.git"
   },
   "keywords": [
     "rut",
@@ -17,7 +17,7 @@
   "author": "daver182 <daver182@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/daver182/jquery.rut/issues"
+    "url": "https://github.com/escaleno-ltda/jquery.rut/issues"
   },
-  "homepage": "https://github.com/daver182/jquery.rut#readme"
+  "homepage": "https://github.com/escaleno-ltda/jquery.rut#readme"
 }
